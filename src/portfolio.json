@@ -1,0 +1,82 @@
+[
+    {
+    "id": 1,
+    "name": "Weather Finder",
+    "image": "https://raw.githubusercontent.com/andytheelf/weatherfinder/master/images/img2.png",
+    "github": "https://github.com/andytheelf/weatherfinder",
+    "deployed": "https://github.com/andytheelf/weatherfinder/blob/master/andytheelf.github.io",
+    "tools": "React, Redux, and Firebase Database, Hosting and Cloud Functions"
+    },
+    {
+    "id": 2,
+    "name": "Help Exchange",
+    "image": "https://raw.githubusercontent.com/andytheelf/Help-Exchange/master/assets/help1.JPG",
+    "github": "https://github.com/andytheelf/Help-Exchange",
+    "deployed": "https://melissad-help-exchange.herokuapp.com/",
+    "tools": "React, GraphQL, Node.js, Express.js, Apollo Server, MongoDB/Mongoose, JSON Web Token, PWA"
+    },
+    {
+    "id": 3,
+    "name": "Have You Read It?",
+    "image": "https://raw.githubusercontent.com/andytheelf/Have-you-read-it-/master/screenshot.PNG",
+    "github": "https://github.com/andytheelf/Have-you-read-it-",
+    "deployed": "https://ut-project-1-group-5.github.io/project-1-group-5/",
+    "tools": "Node.js, Express.js, Handlebars.js, MySQL/Sequelize, Jest, MVC Paradigm, Express-Session, Cookies"
+    },
+    {
+    "id": 4,
+    "name": "Note Taker",
+    "image": "https://raw.githubusercontent.com/andytheelf/NoteTaker/master/public/assets/images/sampleNotes.png",
+    "github": "https://github.com/andytheelf/NoteTaker",
+    "tools": "React, Node.js, Express.js, MongoDB, GraphQL, Apollo Server, Redux, Stripe, IndexedDB"
+    },
+    {
+    "id": 5,
+    "name": "Budget Tracker",
+    "image": "https://raw.githubusercontent.com/andytheelf/budget-2/master/src/bud2.JPG",
+    "github": "https://github.com/andytheelf/budget-2",
+    "deployed": "https://fathomless-coast-68447.herokuapp.com/",
+    "tools": "IndexedDB, Service Workers, PWA Web Manifest"
+    },
+    {
+    "id": 6,
+    "name": "Books Search Engine",
+    "image": "https://raw.githubusercontent.com/andytheelf/book-on-books/master/assets/Capture.JPG",
+    "github": "https://github.com/andytheelf/book-on-books",
+    "deployed": "https://tranquil-hamlet-38619.herokuapp.com/",
+    "tools": "React, Node.js, Express.js, MongoDB, GraphQL, Apollo Server, Google Books API"
+    },
+    {
+    "id": 7,
+    "name": "Photo Port",
+    "image": "https://raw.githubusercontent.com/andytheelf/Oh-Snap/master/photo-port/src/assets/cover/cover-image.jpg",
+    "github": "https://github.com/andytheelf/Oh-Snap",
+    "deployed": "https://andytheelf.github.io/Oh-Snap/",
+    "tools": "React state, props, Hooks"
+    },
+    {
+    "id": 8,
+    "name": "Food Festival",
+    "image": "https://raw.githubusercontent.com/andytheelf/andytheelf.github.io-food/master/assets/img/grill.jpg",
+    "github": "https://github.com/andytheelf/andytheelf.github.io-food",
+    "deployed": "https://github.com/andytheelf/andytheelf.github.io-food",
+    "tools": "Webpack, Service Workers, PWA Web Manifest"
+    },
+    {
+    "id": 9,
+    "name": "Tech Blog",
+    "image": "https://raw.githubusercontent.com/andytheelf/tech-blog3/master/assets/img.PNG",
+    "github": "https://github.com/andytheelf/tech-blog3",
+    "deployed": "https://morning-taiga-89139.herokuapp.com/",
+    "tools": "MySQL/Sequelize, Express.js, Handlebars.js, Bcrypt, Express-Session, MVC Paradigm"
+    },
+    {
+    "id": 10,
+    "name": "Pizza Hunt",
+    "image": "https://raw.githubusercontent.com/andytheelf/Pizza-hunt/master/public/assets/images/header-bg.jpg",
+    "github": "https://github.com/andytheelf/Pizza-hunt",
+    "deployed": "",
+    "tools": "MongoDB/Mongoose, IndexedDB"
+    }
+    
+]
